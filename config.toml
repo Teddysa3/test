@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "fr-FR"
 title = "Mon super site test"
 theme = "ananke"
+
+[params]
+featured_image = "/images/image.jpg"
