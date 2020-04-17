@@ -1,7 +1,8 @@
 ---
 title: "Premier article"
 date: 2020-04-17T17:21:42+02:00
-draft: false
+categories: ["cat1", "cat2"]
+tags: ["tag1", "tag2"]
 ---
 ![fanart Ingrid](/images/ingrid2.png)
 

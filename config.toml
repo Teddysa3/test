@@ -4,4 +4,6 @@ title = "Mon super site test"
 theme = "ananke"
 
 [params]
-featured_image = "/images/image.jpg"
+    featured_image = "/images/image.jpg"
+    recent_posts_number = 0
+    mainSections = ["content"]
